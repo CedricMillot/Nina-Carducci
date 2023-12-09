@@ -249,11 +249,9 @@ input[type="submit"] {
   padding-top: 40px;
   padding-bottom: 20px;
 }
-
 ul {
   list-style: none;
 }
-
 @media all and (max-width: 1180px) {
   .picture {
     flex: 2;
